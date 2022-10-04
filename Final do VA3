@@ -1,0 +1,62 @@
+*{
+
+            margin: 0;
+            padding: 0;
+        }
+
+        body{
+            font-family: Arial, Helvetica, sans-serif,
+            font-size: 36
+            font-weight: 500;
+            letter-spacing: 1px;
+        }
+
+        #cabeçalho{
+            height: 150px;
+            background-color: rgb(105, 105, 105);
+            width: 95%;
+            margin: 0 auto;
+            
+        }
+        #menu{
+            height: 600px;
+            width: 300px;
+            background-color: rgb(105, 105, 105);
+            float: left;
+            margin-left: 60px;
+            margin-top: 10px;
+            
+        }
+        
+        #principal{
+            height: 600px;
+            width: 600px;
+            background-color: rgb(105, 105, 105);
+            float: left;
+            margin-top: 10px;
+            margin-left: 10px;
+            margin-right: 10px;
+            
+        }
+        
+        #lado{
+            height: 600px;
+            width: 300px;
+            background-color: rgb(105, 105, 105);
+            float: left;
+            margin-top: 10px;
+            margin-block-end: 10px;
+            
+
+        }
+
+        #rodape{
+            height: 100px;
+            background-color: rgb(105, 105, 105);
+            clear: both;
+            width: 95%;
+            margin: 0 auto;
+            
+            
+            
+        }
