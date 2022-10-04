@@ -1,0 +1,81 @@
+p{
+    text-align: center;
+
+}
+
+#formulario{
+    padding: 10px;
+}
+fieldset{
+    font-size: 15px;
+    background-color: rgb(128, 45, 45);
+    border: 0.8 solid rgba(71, 4, 4, 0.726);
+    border-radius: 15px;
+    box-shadow: 0 0 40px rgba(110, 7, 7, 0.5);
+}
+
+label{
+    margin-left: 30px;
+    display: inline-block;
+    width: 100px;
+}
+input[type=text]{
+    width: 400px;
+    padding: 5px;
+    margin: 5px;
+}
+
+#city{
+    width: 414px;
+    padding: 5px;
+    margin: 5px;
+}
+
+#Texto{
+    width: 401px;
+    padding: 5px;
+    margin: 5px;
+}
+input[type=reset]{
+    width: 135px;
+    padding: 5px;
+    margin: 5px;
+    font-weight: 500;
+}
+input[type=reset]:hover{
+    opacity: 1;
+}
+    
+
+input[type=submit]{
+    width: 135px;
+    padding: 5px;
+    margin: 5px;
+    font-weight: 500;
+}
+input[type=submit]:hover{
+    opacity: 1;
+}
+
+
+#botoes{
+    text-align: center;
+}
+#teste{
+    text-align: center;
+    color:rgb(0, 0, 0);
+    font-size: 60px;
+    font-style: unset;
+}
+#mudanca{
+    text-align: center;
+    color:rgb(0, 0, 0);
+    font-size: 40px;
+    font-style: unset;
+}
+#city2{
+    width: 414px;
+    padding: 5px;
+    margin: 5px;
+    margin-left: 69px;
+}
